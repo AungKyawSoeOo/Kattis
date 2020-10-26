@@ -6,6 +6,7 @@ using namespace std;
 int main() {
     string s, t;
     cin >> s;
+    Add
     t.push_back(s[0]);
     for(int i = 0; i < s.size(); i++) {
         if(s[i] == '-') {
